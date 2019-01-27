@@ -8,7 +8,7 @@ using WebAPI.Controllers;
 namespace ProjectMgmt.UnitTest.Harness
 {
     /// <summary>
-    /// Summary description for APIPeformanceTest
+    /// Summary description for APIPeformanceTest Test
     /// </summary>
     [TestClass]
     public class NBenchPeformanceTest
